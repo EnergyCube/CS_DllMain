@@ -1,4 +1,4 @@
-# Foobar
+# CS_DllMain
 
 CS_DllMain is a way to call a C# dll as if it were a C++ dll with DllMain.
 For this the C++ DllMain calls a function of the C# dll.
@@ -20,8 +20,6 @@ public static void CS_DllMain() {
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [GNU General Public License v3.0](https://github.com/EnergyCube/CS_DllMain/blob/main/LICENSE)
